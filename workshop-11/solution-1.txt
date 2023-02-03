@@ -1,0 +1,12 @@
+let a be the sorted array of integers 
+let x be an integer 
+
+for each element e in a 
+	if e equals x
+		done 
+	endif
+end loop
+
+a = 1 2 3 4
+x = 3
+

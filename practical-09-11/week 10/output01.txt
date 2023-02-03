@@ -1,0 +1,95 @@
+[2J[1;1H
+*****WELCOME TO YOUR ORGANISER!*****
+
+Enter your name: [2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, # Test 1 to test whether the program delete the task?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H[2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, # Test 1 to test whether the program delete the task?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H
+___________TASK CREATION____________
+
+How important is the task? Choose priority:
+1 - High
+2 - Medium
+3 - Low
+
+***Press any other key to return to main menu.***
+
+Selection: [2J[1;1H
+______CREATING LOW PRIORITY TASK______
+
+Add task title: Add task description: [2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, # Test 1 to test whether the program delete the task?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H
+_____________TO-DO LIST_____________
+1 - Eat bananas (Priority: Low)
+
+Select a task: Position: 0
+[2J[1;1H
+_____________TASK OPTIONS___________
+
+Choose from the following options: 
+1 - View task
+2 - delete task
+3 - move task
+
+[2J[1;1H
+Task deleted!
+
+***Press any key and hit ENTER to return to main menu***
+[2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, # Test 1 to test whether the program delete the task?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H[2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, # Test 1 to test whether the program delete the task?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: 
+Exiting program...

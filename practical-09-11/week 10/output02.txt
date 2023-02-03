@@ -1,0 +1,93 @@
+[2J[1;1H
+*****WELCOME TO YOUR ORGANISER!*****
+
+Enter your name: [2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, Donald the rubber duck?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H
+___________IN-PROGRESS LIST_________
+No tasks to list.
+
+***Press any key and hit ENTER to return to main menu***
+[2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, Donald the rubber duck?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H
+____________COMPLETE LIST___________
+No tasks to list.
+
+***Press any key and hit ENTER to return to main menu***
+[2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, Donald the rubber duck?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H
+_____________TO-DO LIST_____________
+No tasks to list.
+
+***Press any key and hit ENTER to return to main menu***
+[2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, Donald the rubber duck?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: [2J[1;1H
+___________TASK CREATION____________
+
+How important is the task? Choose priority:
+1 - High
+2 - Medium
+3 - Low
+
+***Press any other key to return to main menu.***
+
+Selection: [2J[1;1H
+_____CREATING HIGH PRIORITY TASK_____
+
+Add task title: Add task description: [2J[1;1H
+_____________MAIN MENU______________
+What would you like to do today, Donald the rubber duck?
+1 - View To-Do list
+2 - View In-Progress list
+3 - View Complete list
+4 - Create a task
+5 - Edit user details
+6 - View rewards
+
+***Press 9 to quit.***
+
+Selection: 
+Exiting program...

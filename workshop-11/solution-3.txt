@@ -1,0 +1,13 @@
+let b be the number of words in a book
+let n be the frequency of the particular word
+let w be the word
+
+for each sentence s in b
+	if w equals to s 
+		increment n
+		done 
+	endif
+endloop
+
+!! Use map data structure as it would be O(n)
+ 

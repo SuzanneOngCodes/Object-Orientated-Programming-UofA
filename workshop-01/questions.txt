@@ -1,0 +1,11 @@
+What is the purpose of the log message you supply to your svn commit?
+To identify the changes made from the user in the files or directories that are committed
+
+What do you think makes a good commit message?
+It should be concise and informative of what changes have been made in this commit
+
+When and how often should I be committing my work?
+Once any changes are made in the files or directories to update the master copy in the version control servers
+
+True or False, you should commit all files (including binaries, images, and log files) to SVN.
+TRUE, because it sends and update changes of all the files and directories to the version control servers
